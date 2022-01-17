@@ -1,4 +1,4 @@
-//Popup-JS-Jquery
+#Popup-JS-Jquery
 
 $(".eventwrap-list h6").click(function(e){  //Get Target by Click Event.
     e.preventDefault();
